@@ -1,7 +1,7 @@
 # graham-scan
 CS 3353 Midterm Project - Graham Scan
 
-This Python program implements and analyzes the Graham Scan on data sets with varying distribution and size.
+This Python program implements and analyzes the Graham Scan algorithm on data sets with varying distribution and size.
 The program implements pyplot from the matplotlib library to display the set of points, along with the set's
 **convex hull**.
 
