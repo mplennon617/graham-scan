@@ -31,13 +31,12 @@ This project requires Python to run. Learn more about how to download Python [he
 
 1. Clone the repository using `git clone https://github.com/mplennon617/graham-scan`
 2. Navigate to the source code folder `cd [...]/21s-pa02-mplennon617/src`
-3. Run GiftPlot.py using `python3 GiftPlot.py`
-4. A plot window will be displayed. Exit out of each plot to advance to the next plot generated.
-5. You are done!
+3. Enter your IDE of choice (Example: `code .` for Visual Studio Code)
+4. Run GiftPlot.py in your Python terminal.
+5. A plot window will be displayed. Exit out of each plot to advance to the next plot generated.
+6. You are done!
 
-### Debug and Release modes
-
-This projects supports both debug and release modes. Release modes are optimized with the -O3 compiler flag and do not have debug symbols. The Debug mode includes support for -Wall and -Wextra flags.
+- NOTE: The following external libraries are used: numpy matplotlib.pyplot, random, math
 
 # Report
 
